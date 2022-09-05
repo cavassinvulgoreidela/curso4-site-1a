@@ -1,8 +1,12 @@
 body{
-    overscroll-behavior-block: ;
+    background: black;
 }
 
-p { background-color: rgb(248, 15, 15);
+h1 {
+    color: red;
+}
+
+p { 
+    color: rgb(248, 15, 15);
     text-align: center;
-    background: rgb(24, 21, 19);
 }
