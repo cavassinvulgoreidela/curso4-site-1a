@@ -1,4 +1,8 @@
-p {
+body{
+    overscroll-behavior-block: ;
+}
+
+p { background-color: rgb(248, 15, 15);
     text-align: center;
-    background: #d60c0c;
+    background: rgb(24, 21, 19);
 }
